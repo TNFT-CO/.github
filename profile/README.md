@@ -8,7 +8,8 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="./assets/logo.png" alt="logo" width="200" height="auto" />
+  <img src="https://raw.githubusercontent.com/TNFT-CO/.github/main/profile/assets/logo.png" alt="logo" width="200" height="auto" />
+  
   <h1>TNFT Labs</h1>
   
   <h3>
@@ -99,7 +100,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 ## :star2: About us
 
 <div align="center"> 
-  <img src="./assets/header_logo.png" alt="header" />
+  <img src="https://raw.githubusercontent.com/TNFT-CO/.github/main/profile/assets/header_logo.png" alt="header" />
 </div>
 
 <p>
